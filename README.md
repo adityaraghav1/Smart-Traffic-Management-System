@@ -9,4 +9,6 @@ A traffic signal simulator built using HTML, CSS, JavaScript.
 # Tech Stack
 - HTML5  
 - CSS3  
-- JavaScript  
+- JavaScript
+# Working Model (Demo)
+[Project Demo](demo.gif)
