@@ -11,4 +11,4 @@ A traffic signal simulator built using HTML, CSS, JavaScript.
 - CSS3  
 - JavaScript
 # Working Model (Demo)
-[Project Demo](demo.gif)
+![Project Demo](demo.gif)
