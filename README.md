@@ -5,7 +5,7 @@ A traffic signal simulator built using HTML, CSS, JavaScript.
 - Dynamic vehicle count updates
 - Adaptive green signal timing
 - Animated traffic lights
-- Live bar chart streamlit dashboard
+- Live bar chart
 # Tech Stack
 - HTML5  
 - CSS3  
